@@ -125,7 +125,8 @@ Apabila program dijalankan maka akan menghasilkan output sebagai berikut :
 T ( untuk langkah Tambah) dan seterusnya.
 
 
-   <img src="Program input Nilai.png">
+   ![Program input Nilai](https://user-images.githubusercontent.com/115912116/204193343-89a7f6c7-57a7-4d3b-876c-85bacf90c35e.PNG)
+
 
 # Dan berikut adalah tampilan dari flowchartnya :
 
